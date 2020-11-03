@@ -1,0 +1,23 @@
+{
+  "name": "connect-four",
+  "version": "1.0.0",
+  "description": "Project based on previous Tic-Tac-Toe project featuring a functioning 2-player or player-vs-cpu connect-four game created with HTML, CSS, JavaScript and image files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rod-S/connect-four.git"
+  },
+  "author": "Rod-S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rod-S/connect-four/issues"
+  },
+  "homepage": "https://github.com/Rod-S/connect-four#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "normalize": "^0.3.1"
+  }
+}
