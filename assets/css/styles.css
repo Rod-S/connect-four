@@ -145,7 +145,7 @@ h1 {
     background-size: 100px 100px;
     background-repeat: no-repeat;
     background-position: center center;}
-.boxes .box:nth-child(3n) {
+.boxes .box:nth-child(12n) {
     margin-right: 0; }
 .boxes .box-filled-1 {
     background-color: #FFA000;
