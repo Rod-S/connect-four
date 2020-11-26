@@ -45,11 +45,11 @@ h1 {
 .screen h1 {
     color: #fff; }
 .screen-start {
-    background: #54D17A; }
+    background: red; }
 .screen-start h1 {
     font-size: 6em; }
 .screen-start .button {
-    color: #54D17A; }
+    color: red; }
 .screen-start h1 + .button {
     margin-top: 5em; }
 .screen-win p {
