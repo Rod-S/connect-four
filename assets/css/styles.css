@@ -92,7 +92,7 @@ h1 {
     */
 }
 .screen-win-two p:before {
-    content: "×";
+    content: "o";
     top: 3.5rem;
 
 }
@@ -128,8 +128,9 @@ h1 {
     background: #3688C3; }
 
 .boxes {
-    width: 480px;
-    margin: 3em auto 0; }
+    width: 1200px;
+    margin: 3em auto 0;
+}
 .boxes .box {
     background: #EFEFEF;
     border-radius: 4px;
@@ -145,19 +146,19 @@ h1 {
     background-size: 100px 100px;
     background-repeat: no-repeat;
     background-position: center center;}
-.boxes .box:nth-child(12n) {
+.boxes .box:nth-child(7n) {
     margin-right: 0; }
 .boxes .box-filled-1 {
     background-color: #FFA000;
     background-image: url(../img/o.svg); }
 .boxes .box-filled-2 {
     background-color: #3688C3;
-    background-image: url(../img/x.svg); }
+    background-image: url(../img/o.svg); }
 
 .names {
     color: rgba(0, 0, 0, 1);
     text-align: center;
-    position: fixed;
+    position: relative;
     width: 35%;
 }
 
